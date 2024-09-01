@@ -54,7 +54,6 @@ section {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-
 }
 
 .profile__name {
@@ -62,6 +61,10 @@ section {
   color: #171717;
   font-weight: 700;
   line-height: 28px;
+}
+
+.profile__handle {
+  font-size: 14px;
 }
 
 .profile__description {
