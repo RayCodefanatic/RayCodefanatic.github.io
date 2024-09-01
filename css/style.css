@@ -52,11 +52,18 @@ section {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+
 }
 
 .profile__name {
   font-size: 1rem;
   font-weight: 700;
+}
+
+.profile__description {
+  font-size: 15px;
+  line-height: 1.5;
+
 }
 
 .credits {
